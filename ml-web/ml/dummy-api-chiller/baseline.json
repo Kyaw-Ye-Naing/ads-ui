@@ -1,0 +1,39 @@
+{
+    "status": true,
+    "message": null,
+    "payLoad": {
+        "id": 7,
+        "kwTon": 0.8,
+        "heatCapacity": 164.13,
+        "evaInput": 11.29,
+        "evaOutput": 8.875,
+        "conInput": 0.0,
+        "conOutput": 0.0,
+        "maxEvaInput": 11.0,
+        "minEvaInput": 9.5,
+        "maxEvaOutput": 9.5,
+        "minEvaOutput": 9.0,
+        "maxKwTon": 0.8,
+        "minKwTon": 0.5,
+        "maxHeatCapacity": 205.0,
+        "minHeatCapacity": 75.0,
+        "site": {
+            "id": 7,
+            "name": "Pan Pacific Serviced Suites Orchard, Singapore",
+            "blockNo": "673c",
+            "unitNo": "#12-33",
+            "streetName": "Boon Lay",
+            "buildingName": "BLK",
+            "postalCode": "500032",
+            "countryName": "Singapore",
+            "clientId": null,
+            "gatewayId": null
+        },
+        "client": {
+            "id": 11,
+            "name": "PPHG",
+            "email": "pphg@gmail.com",
+            "mobileNo": "6568081180"
+        }
+    }
+}

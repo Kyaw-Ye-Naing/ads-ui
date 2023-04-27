@@ -1,0 +1,15 @@
+{
+    "status": true,
+    "message": null,
+    "payLoad": {
+        "efficiency": 0.7975367592240366,
+        "powerLoading": 93.11488383928572,
+        "heatCapacity": 111.54595568304035,
+        "power": 88.962,
+        "evaDeltaTap": 1.810246467590332,
+        "evaInput": 10.804886817932129,
+        "evaOutput": 8.994640350341797,
+        "avgLoading": 44.04125234836284,
+        "ts": "2020-04-10 23:30:00"
+    }
+}

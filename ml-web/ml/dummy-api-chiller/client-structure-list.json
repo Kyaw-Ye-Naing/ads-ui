@@ -1,0 +1,224 @@
+{
+    "status": true,
+    "message": null,
+    "payLoad": [
+        {
+            "client": {
+                "id": 11,
+                "name": "CapitaLand",
+                "email": "pacitalland@gmail.com",
+                "mobileNo": "6578081180"
+            },
+            "siteList": [
+                {
+                    "id": "cltao",
+                    "blockNo": "673c",
+                    "name": "The Atrium @ Orchard",
+                    "unitNo": "#12-33",
+                    "streetName": "Orchard Road",
+                    "buildingName": "Building",
+                    "postalCode": "500011",
+                    "countryName": "Singapore",
+                    "logoName": "logo_11_7.png,light_11_7.png",
+                    "chillerList": [
+                        {
+                            "id": 27,
+                            "name": "Chiller1",
+                            "brand": {
+                                "id": 2,
+                                "name": "Trane",
+                                "manufacturer": "null",
+                                "modelList": [
+                                    {
+                                        "id": 2,
+                                        "name": "Water-Cooled Chiller",
+                                        "number": "RTHD73U613AAT14060905",
+                                        "tonnage": 336.0,
+                                        "refrigeratorType": "HFC-134a"
+                                    },
+                                    {
+                                        "id": 3,
+                                        "name": "Water-Cooled Chiller",
+                                        "number": "RTHDD3F2F3",
+                                        "tonnage": 350.0,
+                                        "refrigeratorType": "R134a"
+                                    },
+                                    {
+                                        "id": 5,
+                                        "name": "Water-Cooled Chiller",
+                                        "number": "CVHG480",
+                                        "tonnage": 450.0,
+                                        "refrigeratorType": "R123"
+                                    }
+                                ]
+                            },
+                            "model": {
+                                "id": 3,
+                                "name": "Water-Cooled Chiller",
+                                "number": "RTHDD3F2F3",
+                                "tonnage": 350.0,
+                                "refrigeratorType": "R134a"
+                            }
+                        },
+                        {
+                            "id": 28,
+                            "name": "Chiller2",
+                            "brand": {
+                                "id": 2,
+                                "name": "Trane",
+                                "manufacturer": "null",
+                                "modelList": [
+                                    {
+                                        "id": 2,
+                                        "name": "Water-Cooled Chiller",
+                                        "number": "RTHD73U613AAT14060905",
+                                        "tonnage": 336.0,
+                                        "refrigeratorType": "HFC-134a"
+                                    },
+                                    {
+                                        "id": 3,
+                                        "name": "Water-Cooled Chiller",
+                                        "number": "RTHDD3F2F3",
+                                        "tonnage": 350.0,
+                                        "refrigeratorType": "R134a"
+                                    },
+                                    {
+                                        "id": 5,
+                                        "name": "Water-Cooled Chiller",
+                                        "number": "CVHG480",
+                                        "tonnage": 450.0,
+                                        "refrigeratorType": "R123"
+                                    }
+                                ]
+                            },
+                            "model": {
+                                "id": 3,
+                                "name": "Water-Cooled Chiller",
+                                "number": "RTHDD3F2F3",
+                                "tonnage": 350.0,
+                                "refrigeratorType": "R134a"
+                            }
+                        },
+                        {
+                            "id": 29,
+                            "name": "Chiller3",
+                            "brand": {
+                                "id": 2,
+                                "name": "Trane",
+                                "manufacturer": "null",
+                                "modelList": [
+                                    {
+                                        "id": 2,
+                                        "name": "Water-Cooled Chiller",
+                                        "number": "RTHD73U613AAT14060905",
+                                        "tonnage": 336.0,
+                                        "refrigeratorType": "HFC-134a"
+                                    },
+                                    {
+                                        "id": 3,
+                                        "name": "Water-Cooled Chiller",
+                                        "number": "RTHDD3F2F3",
+                                        "tonnage": 350.0,
+                                        "refrigeratorType": "R134a"
+                                    },
+                                    {
+                                        "id": 5,
+                                        "name": "Water-Cooled Chiller",
+                                        "number": "CVHG480",
+                                        "tonnage": 450.0,
+                                        "refrigeratorType": "R123"
+                                    }
+                                ]
+                            },
+                            "model": {
+                                "id": 3,
+                                "name": "Water-Cooled Chiller",
+                                "number": "RTHDD3F2F3",
+                                "tonnage": 350.0,
+                                "refrigeratorType": "R134a"
+                            }
+                        },
+                        {
+                            "id": 30,
+                            "name": "Chiller4",
+                            "brand": {
+                                "id": 2,
+                                "name": "Trane",
+                                "manufacturer": "null",
+                                "modelList": [
+                                    {
+                                        "id": 2,
+                                        "name": "Water-Cooled Chiller",
+                                        "number": "RTHD73U613AAT14060905",
+                                        "tonnage": 336.0,
+                                        "refrigeratorType": "HFC-134a"
+                                    },
+                                    {
+                                        "id": 3,
+                                        "name": "Water-Cooled Chiller",
+                                        "number": "RTHDD3F2F3",
+                                        "tonnage": 350.0,
+                                        "refrigeratorType": "R134a"
+                                    },
+                                    {
+                                        "id": 5,
+                                        "name": "Water-Cooled Chiller",
+                                        "number": "CVHG480",
+                                        "tonnage": 450.0,
+                                        "refrigeratorType": "R123"
+                                    }
+                                ]
+                            },
+                            "model": {
+                                "id": 3,
+                                "name": "Water-Cooled Chiller",
+                                "number": "RTHDD3F2F3",
+                                "tonnage": 350.0,
+                                "refrigeratorType": "R134a"
+                            }
+                        },
+                        {
+                            "id": 31,
+                            "name": "Chiller5",
+                            "brand": {
+                                "id": 2,
+                                "name": "Trane",
+                                "manufacturer": "null",
+                                "modelList": [
+                                    {
+                                        "id": 2,
+                                        "name": "Water-Cooled Chiller",
+                                        "number": "RTHD73U613AAT14060905",
+                                        "tonnage": 336.0,
+                                        "refrigeratorType": "HFC-134a"
+                                    },
+                                    {
+                                        "id": 3,
+                                        "name": "Water-Cooled Chiller",
+                                        "number": "RTHDD3F2F3",
+                                        "tonnage": 350.0,
+                                        "refrigeratorType": "R134a"
+                                    },
+                                    {
+                                        "id": 5,
+                                        "name": "Water-Cooled Chiller",
+                                        "number": "CVHG480",
+                                        "tonnage": 450.0,
+                                        "refrigeratorType": "R123"
+                                    }
+                                ]
+                            },
+                            "model": {
+                                "id": 3,
+                                "name": "Water-Cooled Chiller",
+                                "number": "RTHDD3F2F3",
+                                "tonnage": 350.0,
+                                "refrigeratorType": "R134a"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

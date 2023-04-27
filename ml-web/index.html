@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en" class="h-100">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no,user-scalable=no" />
+    <meta name="theme-color" content="#262933" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+        integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous" />
+    <title>IBPEM-Evercomm</title>
+    <link href="/static/css/main.css" rel="stylesheet">
+</head>
+
+<body style="background:linear-gradient(-60deg,#101841,#202b60);font-size:14px" class="h-100"><noscript>You need to
+        enable JavaScript to run this app.</noscript>
+    <div id="loadingDivId"
+        style="z-index:2147483647;position:fixed;left:0;right:0;top:0;bottom:0;background-color:#ffffff44;display:none;z-index:1100"
+        }>
+        <div style="position:absolute;left:50%;top:50%">
+            <div style="position:fixed;transform:translate(-50%,-50%);font-weight:900;opacity:.8;z-index:1101"
+                align="center"><img alt="LOADING" src="/ml/loading1.gif" width="40" />
+                <div class="text-white text-center font-weight-bold" style="font-size:14pt;text-shadow:0 0 6px #000">
+                    LOADING</div>
+            </div>
+        </div>
+    </div>
+    <div id="root" class="h-100"></div>
+    <script>document.getElementById("loadingDivId").addEventListener("click", (function (e) { e.preventDefault(), e.stopPropagation() }))</script>
+    <script src="/static/js/main.js"></script>
+</body>
+
+</html>

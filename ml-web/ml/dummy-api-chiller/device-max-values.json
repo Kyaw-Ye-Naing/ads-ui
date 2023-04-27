@@ -1,0 +1,20 @@
+{
+    "status": true,
+    "message": null,
+    "payLoad": [
+        {
+            "id": 4,
+            "clientId": 11,
+            "siteId": 7,
+            "chillerId": null,
+            "pumpId": null,
+            "coolingTowerId": null,
+            "efficiency": 3.0,
+            "avgPower": 207.0,
+            "power": 1000.0,
+            "avgHeatCapacityRt": 20.0,
+            "evaInput": 18.0,
+            "evaOutput": 18.0
+        }
+    ]
+}

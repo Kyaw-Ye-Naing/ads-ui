@@ -1,0 +1,32 @@
+{
+    "status": true,
+    "message": null,
+    "payLoad": [
+        {
+            "chiller": "Chiller1",
+            "chillerId": 27,
+            "isChillerOn": false,
+            "power": 0.148,
+            "evaInput": 16.000205993652344,
+            "evaOutput": 19.996200561523438,
+            "heatCapacity": 0.0,
+            "efficiency": 0.0,
+            "powerTs": "2020-04-10 22:32:00.000",
+            "evaTs": "2020-04-10 22:32:00.000",
+            "dataLoss": false
+        },
+        {
+            "chiller": "Chiller2",
+            "chillerId": 28,
+            "isChillerOn": true,
+            "power": 86.388,
+            "evaInput": 10.765327453613281,
+            "evaOutput": 8.993709564208984,
+            "heatCapacity": 106.7517890328613,
+            "efficiency": 0.8092417071662122,
+            "powerTs": "2020-04-10 22:32:00.000",
+            "evaTs": "2020-04-10 22:32:00.000",
+            "dataLoss": false
+        }
+    ]
+}

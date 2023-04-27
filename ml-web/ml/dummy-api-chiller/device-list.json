@@ -1,0 +1,118 @@
+{
+    "status": true,
+    "message": null,
+    "payLoad": {
+        "chillerDeviceList": [
+            {
+                "id": 28,
+                "name": "Chiller2",
+                "powerMeterSensorList": [
+                    {
+                        "id": 50,
+                        "name": "Chiller2 Power meter"
+                    }
+                ],
+                "tempSensorList": [
+                    {
+                        "id": 45,
+                        "name": "Chiller2 Temperature sensor"
+                    },
+                    {
+                        "id": 59,
+                        "name": "Chiller2 Temperature sensor"
+                    }
+                ]
+            },
+            {
+                "id": 27,
+                "name": "Chiller1",
+                "powerMeterSensorList": [
+                    {
+                        "id": 51,
+                        "name": "Chiller1 Power meter"
+                    }
+                ],
+                "tempSensorList": [
+                    {
+                        "id": 46,
+                        "name": "Chiller1 Temperature sensor"
+                    },
+                    {
+                        "id": 60,
+                        "name": "Chiller1 Temperature sensor"
+                    }
+                ]
+            }
+        ],
+        "pumpDeviceList": [
+            {
+                "id": 11,
+                "name": "Chilled Water Pump 1",
+                "powerMeterSensorList": [
+                    {
+                        "id": 24,
+                        "name": "Eva Chilled Water Pump1"
+                    }
+                ],
+                "tempSensorList": []
+            },
+            {
+                "id": 12,
+                "name": "Chilled Water Pump 2",
+                "powerMeterSensorList": [
+                    {
+                        "id": 28,
+                        "name": "Eva Chilled Water Pump2"
+                    }
+                ],
+                "tempSensorList": []
+            },
+            {
+                "id": 16,
+                "name": "Condenser Water Pump 1",
+                "powerMeterSensorList": [
+                    {
+                        "id": 34,
+                        "name": "Condenser Chilled Water Pump1"
+                    }
+                ],
+                "tempSensorList": []
+            },
+            {
+                "id": 17,
+                "name": "Condenser Water Pump 2",
+                "powerMeterSensorList": [
+                    {
+                        "id": 52,
+                        "name": "Condenser Chilled Water Pump2"
+                    }
+                ],
+                "tempSensorList": []
+            }
+        ],
+        "coolingTowerList": [
+            {
+                "id": 1,
+                "name": "Cooling Tower 1",
+                "powerMeterSensorList": [
+                    {
+                        "id": 29,
+                        "name": "Cooling Tower 1"
+                    }
+                ],
+                "tempSensorList": []
+            },
+            {
+                "id": 2,
+                "name": "Cooling Tower 2",
+                "powerMeterSensorList": [
+                    {
+                        "id": 30,
+                        "name": "Cooling Tower 2"
+                    }
+                ],
+                "tempSensorList": []
+            }
+        ]
+    }
+}

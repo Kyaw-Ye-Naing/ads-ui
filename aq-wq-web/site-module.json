@@ -1,0 +1,66 @@
+{
+    "23": [
+       {
+            "name": "Dashboard",
+            "linkTo": "/chiller/dashboard"
+        },
+        {
+            "name": "Vibration Info",
+            "linkTo": "/vb/vibration-info"
+        },
+        {
+            "name": "General Info",
+            "linkTo": "/ads/dashboard"
+        }
+        
+    ],
+    "24": [
+	{
+            "name": "Dashboard",
+            "linkTo": "/chiller/dashboard"
+        },
+        
+        {
+            "name": "Vibration Info",
+            "linkTo": "/vb/vibration-info"
+        },
+        {
+            "name": "General Info",
+            "linkTo": "/ads/dashboard"
+        }    
+],
+    "44":[
+	{
+	     "name": "Dashboard",
+            "linkTo": "/chiller/dashboard"
+	}
+],
+"42": [
+       {
+            "name": "Dashboard",
+            "linkTo": "/chiller/dashboard"
+        },
+ 	{
+            "name": "Boiler Info",
+            "linkTo": "/ads/boiler-overview"
+        },
+
+        {
+            "name": "General Info",
+            "linkTo": "/ads/dashboard"
+        }
+        
+    ],
+    "53": [
+            
+            {
+                "name": "Air Quality",
+                "linkTo": "/aq/air-quality-overview"
+            },
+            {
+                "name": "General Info",
+                "linkTo": "/ads/dashboard"
+            }    
+    ]
+
+}

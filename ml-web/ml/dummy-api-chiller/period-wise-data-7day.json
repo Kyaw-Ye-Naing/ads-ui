@@ -1,0 +1,76 @@
+{
+    "status": true,
+    "message": null,
+    "payLoad": [
+        {
+            "ts": "2020-04-09 23:59:59",
+            "deviceType": "POWER_METER",
+            "avgHeatCapacityRt": 115.06162801657928,
+            "avgHeatCapacityKwPerTonn": 404.6547652509073,
+            "powerConsumption": 2185.0,
+            "avgEfficiencyKwPerTonn": 0.7923179424158244,
+            "avgPowerLoading": 44.04125234836284,
+            "avgPower": 91.16539236111107
+        },
+        {
+            "ts": "2020-04-08 23:59:59",
+            "deviceType": "POWER_METER",
+            "avgHeatCapacityRt": 109.82734030811068,
+            "avgHeatCapacityKwPerTonn": 386.24654784222497,
+            "powerConsumption": 2163.7,
+            "avgEfficiencyKwPerTonn": 0.8217670764667149,
+            "avgPowerLoading": 43.60023785560923,
+            "avgPower": 90.25249236111111
+        },
+        {
+            "ts": "2020-04-07 23:59:59",
+            "deviceType": "POWER_METER",
+            "avgHeatCapacityRt": 104.79901433771518,
+            "avgHeatCapacityKwPerTonn": 368.5626674710712,
+            "powerConsumption": 2081.4,
+            "avgEfficiencyKwPerTonn": 0.8287096137619833,
+            "avgPowerLoading": 41.955531736446616,
+            "avgPower": 86.84795069444449
+        },
+        {
+            "ts": "2020-04-06 23:59:59",
+            "deviceType": "POWER_METER",
+            "avgHeatCapacityRt": 155.65571986850057,
+            "avgHeatCapacityKwPerTonn": 547.4181955279942,
+            "powerConsumption": 1277.8,
+            "avgEfficiencyKwPerTonn": 0.6854388327039765,
+            "avgPowerLoading": 51.542258420464826,
+            "avgPower": 106.6924749303622
+        },
+        {
+            "ts": "2020-04-05 23:59:59",
+            "deviceType": "POWER_METER",
+            "avgHeatCapacityRt": 0.0,
+            "avgHeatCapacityKwPerTonn": 0.0,
+            "powerConsumption": 5.6,
+            "avgEfficiencyKwPerTonn": 0.0,
+            "avgPowerLoading": 0.0,
+            "avgPower": 0.0
+        },
+        {
+            "ts": "2020-04-04 23:59:59",
+            "deviceType": "POWER_METER",
+            "avgHeatCapacityRt": 0.0,
+            "avgHeatCapacityKwPerTonn": 0.0,
+            "powerConsumption": 6.0,
+            "avgEfficiencyKwPerTonn": 0.0,
+            "avgPowerLoading": 0.0,
+            "avgPower": 0.0
+        },
+        {
+            "ts": "2020-04-03 23:59:59",
+            "deviceType": "POWER_METER",
+            "avgHeatCapacityRt": 0.0,
+            "avgHeatCapacityKwPerTonn": 0.0,
+            "powerConsumption": 5.6,
+            "avgEfficiencyKwPerTonn": 0.0,
+            "avgPowerLoading": 0.0,
+            "avgPower": 0.0
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "status": true,
+    "message": null,
+    "payLoad": {
+        "userId": 1,
+        "name": "Phyo Ko Ko",
+        "email": "phyokoko@gmail.com",
+        "mobileNo": "987654988",
+        "role": "USER",
+        "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbkBnbWFpbC5jb20iLCJzY29wZXMiOlt7ImF1dGhvcml0eSI6IlNVUEVSX0FETUlOIn1dLCJpYXQiOjE1ODY1Mjg4MzJ9.cciJF5fybuWLUiz_FvKZpC7geRuFhtS2nO6HBvPj-aQ",
+        "clientIdList": [],
+        "expiryTimeInMillis": 1200000,
+        "active": true
+    }
+}

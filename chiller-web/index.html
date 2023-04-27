@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,shrink-to-fit=no,user-scalable=no"
+    />
+    <meta name="theme-color" content="#262933" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+      integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+      crossorigin="anonymous"
+    />
+    <title>EVERCOMM</title>
+    <link href="/chiller/static/css/main.css" rel="stylesheet" />
+  </head>
+  <body
+    style="background: linear-gradient(-60deg, #101841, #202b60)"
+    class="h-100"
+  >
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div
+      id="loadingDivId"
+      style="
+        z-index: 2147483647;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        background-color: #00102233;
+        display: none;
+      "
+    >
+      <div style="position: absolute; left: 50%; top: 50%">
+        <div
+          style="
+            position: relative;
+            transform: translate(-50%, -50%);
+            font-weight: 900;
+            opacity: 0.8;
+          "
+          align="center"
+        >
+          <img alt="LOADING" src="/chiller/loading1.gif" width="40" />
+          <div class="text-secondary text-center" style="font-size: 12pt">
+            LOADING
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="root" class="h-100"></div>
+    <script>
+      document
+        .getElementById("loadingDivId")
+        .addEventListener("click", function (t) {
+          t.preventDefault(), t.stopPropagation();
+        }),
+        (window.appContainter = { siteId: 23, clientId: 19 });
+    </script>
+    <script src="/chiller/static/js/main.js"></script>
+  </body>
+</html>

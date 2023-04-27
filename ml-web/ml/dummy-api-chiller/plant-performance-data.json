@@ -1,0 +1,156 @@
+{
+    "status": true,
+    "message": null,
+    "payLoad": [
+        {
+            "tempratureOutput": 9.043697357177734,
+            "tempratureInput": 10.772355079650879,
+            "plantPerformance": 1.1776022474398211,
+            "plantPowerConsumption": 122.321,
+            "ts": "2020-04-10 22:33",
+            "clientId": 11,
+            "siteId": 7,
+            "coolingCapacityRt": 103.87293355284714
+        },
+        {
+            "tempratureOutput": 8.993709564208984,
+            "tempratureInput": 10.765327453613281,
+            "plantPerformance": 1.1255830097892963,
+            "plantPowerConsumption": 120.15800000000002,
+            "ts": "2020-04-10 22:32",
+            "clientId": 11,
+            "siteId": 7,
+            "coolingCapacityRt": 106.7517890328613
+        },
+        {
+            "tempratureOutput": 9.073131561279297,
+            "tempratureInput": 10.76038646697998,
+            "plantPerformance": 1.1743139041521509,
+            "plantPowerConsumption": 119.991,
+            "ts": "2020-04-10 22:31",
+            "clientId": 11,
+            "siteId": 7,
+            "coolingCapacityRt": 102.1796638664795
+        },
+        {
+            "tempratureOutput": 9.07873821258545,
+            "tempratureInput": 10.776091575622559,
+            "plantPerformance": 1.1837910040682453,
+            "plantPowerConsumption": 121.611,
+            "ts": "2020-04-10 22:30",
+            "clientId": 11,
+            "siteId": 7,
+            "coolingCapacityRt": 102.73012684001539
+        },
+        {
+            "tempratureOutput": 9.048931121826172,
+            "tempratureInput": 10.721868515014648,
+            "plantPerformance": 1.179562763568782,
+            "plantPowerConsumption": 119.684,
+            "ts": "2020-04-10 22:29",
+            "clientId": 11,
+            "siteId": 7,
+            "coolingCapacityRt": 101.4647153135748
+        },
+        {
+            "tempratureOutput": 9.080181121826172,
+            "tempratureInput": 10.7194185256958,
+            "plantPerformance": 1.2131013628846916,
+            "plantPowerConsumption": 120.024,
+            "ts": "2020-04-10 22:28",
+            "clientId": 11,
+            "siteId": 7,
+            "coolingCapacityRt": 98.93979486972894
+        },
+        {
+            "tempratureOutput": 9.056514739990234,
+            "tempratureInput": 10.717862129211426,
+            "plantPerformance": 1.193647026671572,
+            "plantPowerConsumption": 119.175,
+            "ts": "2020-04-10 22:27",
+            "clientId": 11,
+            "siteId": 7,
+            "coolingCapacityRt": 99.84107306186974
+        },
+        {
+            "tempratureOutput": 9.064408302307129,
+            "tempratureInput": 10.72674560546875,
+            "plantPerformance": 1.2030580414222682,
+            "plantPowerConsumption": 120.31700000000001,
+            "ts": "2020-04-10 22:26",
+            "clientId": 11,
+            "siteId": 7,
+            "coolingCapacityRt": 100.00930616594354
+        },
+        {
+            "tempratureOutput": 9.05670166015625,
+            "tempratureInput": 10.71365737915039,
+            "plantPerformance": 1.2024003499993214,
+            "plantPowerConsumption": 120.143,
+            "ts": "2020-04-10 22:25",
+            "clientId": 11,
+            "siteId": 7,
+            "coolingCapacityRt": 99.91929892574284
+        },
+        {
+            "tempratureOutput": 8.975160598754883,
+            "tempratureInput": 10.716774940490723,
+            "plantPerformance": 1.126720412119414,
+            "plantPowerConsumption": 118.828,
+            "ts": "2020-04-10 22:24",
+            "clientId": 11,
+            "siteId": 7,
+            "coolingCapacityRt": 105.46360811594684
+        },
+        {
+            "tempratureOutput": 9.016998291015625,
+            "tempratureInput": 10.743151664733887,
+            "plantPerformance": 1.1558572851393418,
+            "plantPowerConsumption": 121.03800000000001,
+            "ts": "2020-04-10 22:23",
+            "clientId": 11,
+            "siteId": 7,
+            "coolingCapacityRt": 104.71708017604314
+        },
+        {
+            "tempratureOutput": 9.008649826049805,
+            "tempratureInput": 10.76378345489502,
+            "plantPerformance": 1.148095540490479,
+            "plantPowerConsumption": 122.35400000000001,
+            "ts": "2020-04-10 22:22",
+            "clientId": 11,
+            "siteId": 7,
+            "coolingCapacityRt": 106.57127014684602
+        },
+        {
+            "tempratureOutput": 8.944951057434082,
+            "tempratureInput": 10.782929420471191,
+            "plantPerformance": 1.0690026207072008,
+            "plantPowerConsumption": 120.52300000000001,
+            "ts": "2020-04-10 22:21",
+            "clientId": 11,
+            "siteId": 7,
+            "coolingCapacityRt": 112.74340929142697
+        },
+        {
+            "tempratureOutput": 9.003520011901855,
+            "tempratureInput": 10.80123233795166,
+            "plantPerformance": 1.1086717885597892,
+            "plantPowerConsumption": 122.146,
+            "ts": "2020-04-10 22:20",
+            "clientId": 11,
+            "siteId": 7,
+            "coolingCapacityRt": 110.17327333517952
+        },
+        {
+            "tempratureOutput": 9.035260200500488,
+            "tempratureInput": 10.829217910766602,
+            "plantPerformance": 1.1256554829314855,
+            "plantPowerConsumption": 123.69500000000001,
+            "ts": "2020-04-10 22:19",
+            "clientId": 11,
+            "siteId": 7,
+            "coolingCapacityRt": 109.88708523665483
+        }
+    ]
+}

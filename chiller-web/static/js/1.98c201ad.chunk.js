@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{680:function(e){e.exports={chiller_overview:"Chillers Overview",name:"Name",efficiency:"Efficiency (kW/Ton)",power_consumption:"Power Consumption (kW)",eva_enter:"Eva Entering ",eva_leaving:"Eva Leaving ",status:"Status",view_chiller:"View Chiller"}}}]);
+//# sourceMappingURL=1.98c201ad.chunk.js.map

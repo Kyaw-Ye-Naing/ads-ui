@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{681:function(e){e.exports={chiller_overview:" \u51b7\u6c34\u673a\u6982\u8ff0 ",name:"\u540d\u79f0",efficiency:"\u6548\u7387 (kW/Ton)",power_consumption:"\u529f\u8017\uff08kW\uff09",eva_enter:"\u6e29\u5ea6\u8f93\u5165",eva_leaving:"\u6e29\u5ea6\u8f93\u51fa",status:"\u5730\u4f4d",view_chiller:"\u67e5\u770b\u51b7\u6c34\u673a"}}}]);
+//# sourceMappingURL=2.c44f525d.chunk.js.map
