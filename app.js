@@ -8,7 +8,7 @@ app.use(express.static(path.join(__dirname, 'utility-web')));
 app.use('/vb', express.static(path.join(__dirname, 'vibration-web')));
 app.use('/chiller', express.static(path.join(__dirname, 'chiller-web')));
 // app.use('/landing', express.static(path.join(__dirname, 'landing-app')));
-// app.use('/co2', express.static(path.join(__dirname, 'co2-app')));
+app.use('/co2', express.static(path.join(__dirname, 'co2-web')));
 app.use('/quality', express.static(path.join(__dirname, 'aq-wq-web')));
 // app.use('/utility', express.static(path.join(__dirname, 'ads-app')));
 // app.use('/farm', express.static(path.join(__dirname, 'vertical-farm-app')));
@@ -21,6 +21,10 @@ app.use('/ml', express.static(path.join(__dirname, 'ml-web')));
 
  
  app.use(cors());
+
+ app.get('/co2/*',cors(), function(req, res) {
+  res.sendFile(path.join(__dirname,'co2-web','index.html'));
+});
 
  app.get('/ml/*',cors(), function(req, res) {
   res.sendFile(path.join(__dirname,'ml-web','index.html'));
