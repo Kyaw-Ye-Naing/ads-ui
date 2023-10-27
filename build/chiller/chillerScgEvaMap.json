@@ -1,0 +1,17 @@
+{
+    "viewWidth": 19,
+    "viewHeight": 9,
+    "devices": {
+        "ch1":    { "x": 4,  "y": 3, "name": "CH-1",    "size": 2, "type": "ch" },
+        "ch2":    { "x": 4,  "y": 5, "name": "CH-2",    "size": 2, "type": "ch" },
+        "ch3":    { "x": 4,  "y": 7, "name": "CH-3",    "size": 2, "type": "ch" },
+        "chp1":   { "x": 8,  "y": 3, "name": "CHP-1",   "size": 1, "type": "chp" },
+        "chp2":   { "x": 8,  "y": 5, "name": "CHP-2",   "size": 1, "type": "chp" },
+        "chp3":   { "x": 8,  "y": 7, "name": "CHP-3",   "size": 1, "type": "chp" },
+        "office": { "x": 14,  "y": 25, "name": "Office", "size": 2, "type": "ts" }
+    },
+    "lines": [
+        { "d1": "chp1", "d2": "office", "l": [ {"x": 5, "y": 3}, {"x": 10, "y": 5} ]}
+
+    ]
+}
