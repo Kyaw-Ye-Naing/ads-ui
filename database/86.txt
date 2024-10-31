@@ -5,27 +5,27 @@ site_id = 86,
 output_dir=,
 
 # for general database configuration
-database_ip = 20.205.24.100,
+database_ip = 127.0.0.1,
 port = 3306,
-username = eco,
-password =ECO4ever,
+username = evercomm,
+password =V!sion0611,
 database_name = '',
 
 #for raw database configuration
-raw_database_ip = 20.205.24.100,
+raw_database_ip = 127.0.0.1,
 raw_port = 3306,        
-raw_username = eco,
-raw_password =ECO4ever,
+raw_username = evercomm,
+raw_password =V!sion0611,
 raw_database_name = '',
 
 #for old etl database configuration
-old_database_ip = 20.205.24.100,
+old_database_ip = 127.0.0.1,
 old_port = 3306,        
-old_username = eco,
-old_password =ECO4ever,
+old_username = evercomm,
+old_password =V!sion0611,
 old_database_name = '',
 
 siteName = Fraser And Neave
 
-baseURL = http://4.236.177.84:5001
-xAuthToken = Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjk4LCJ1c2VybmFtZSI6IkYmTiBBZG1pbiIsImVtYWlsIjoiZiZuQGdtYWlsLmNvbSIsIm1vYmlsZU5vIjpudWxsLCJyb2xlIjoiQURNSU4iLCJhY3RpdmUiOnRydWUsInNpdGVzIjoiODYiLCJuYW1lIjoiRiZOIEFkbWluIiwiYXBwSWQiOiJBRFMiLCJhY2Nlc3MiOjEsInByb2plY3RJZHMiOiIxOSwyMCwyMSwyMiwyMywyNCwxOCIsImlzTmV3IjowLCJ1c2VyTm8iOiJhZG1pbiIsImlhdCI6MTczMDM0NTQyNn0.Uz0KYGHzJ_zqpu9Kc2AUtf4dnCDu0jJ3ri2oV-CzO97F6YykSEmIRTI8TEviIsLU1TPO8qZiw9VJ5iykvS20GGeT75NIYGCpPsm2fStFm2zlpPLmONyFtYdo28mH7SlZigtHl2SBNPpQ2EDcOQ1we5ljoRTXi_L9rt30rcc3n14
+baseURL = http://localhost:5001
+xAuthToken = Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjk4LCJ1c2VybmFtZSI6IkYmTiBBZG1pbiIsImVtYWlsIjoiZiZuQGdtYWlsLmNvbSIsIm1vYmlsZU5vIjpudWxsLCJyb2xlIjoiQURNSU4iLCJhY3RpdmUiOnRydWUsInNpdGVzIjoiODYiLCJuYW1lIjoiRiZOIEFkbWluIiwiYXBwSWQiOiJBRFMiLCJhY2Nlc3MiOjEsInByb2plY3RJZHMiOiIxOCwxOSwyMCwyMSwyMiwyMywyNCIsImlzTmV3IjowLCJ1c2VyTm8iOiJhZG1pbiIsImlhdCI6MTczMDM3OTk0MX0.cWBX9s3DlofBLTvFJ1GPXDTYjN0Fyn5aOv8_p1mAWfIsCo-NXmx5XKZzbLLAZgIcwuKR6ZNo6Oggdrqn5xmNRbsX1y9UpUGfUHH-Vy-pkoFSGwcLqMltU9GpWhm9FR8anYo0BFfiNYdBrH8Z3ajSWZ_aRi2qhxFuNr9cUAexbMI
