@@ -33,5 +33,6 @@
     "login":"Login",
     "all_plants":"All Plants",
     "other_plants":"Other Plants",
-    "last_logged":"Last Logged"
+    "last_logged":"Last Logged",
+    "userId":"User ID"
 }
